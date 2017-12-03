@@ -1,0 +1,30 @@
+{
+  "name": "sequelize_quickstart",
+  "version": "1.0.0",
+  "description": "A quickstart example of what we're basically able to do with the ORM Sequelize",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gigouni/sequelize_quickstart.git"
+  },
+  "keywords": [
+    "sequelize",
+    "mysql",
+    "quickstart",
+    "nicolas",
+    "gigou"
+  ],
+  "author": "Nicolas GIGOU, http://nicolas-gigou.fr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gigouni/sequelize_quickstart/issues"
+  },
+  "homepage": "https://github.com/gigouni/sequelize_quickstart#readme",
+  "dependencies": {
+    "mysql": "^2.13.0",
+    "sequelize": "^3.30.4"
+  }
+}
