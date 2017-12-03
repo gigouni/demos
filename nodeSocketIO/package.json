@@ -1,0 +1,18 @@
+{
+  "name": "node_socket_io",
+  "version": "1.0.0",
+  "description": "A NodeJS application using socket.io and following an OCR tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nicolas GIGOU",
+  "license": "ISC",
+  "dependencies": {
+    "ent": "^2.2.0",
+    "express": "^4.13.4",
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "socket.io": "^1.4.6"
+  }
+}

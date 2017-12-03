@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "pretty": true,
+    "outDir": "./build"
+  },
+  "files": [
+    "typo.ts",
+    "class.ts",
+    "component.ts"
+  ],
+  "exclude": [
+    "node_modules"
+  ]
+}
