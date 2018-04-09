@@ -1,0 +1,16 @@
+{
+  "name": "husky-quickstart",
+  "version": "1.0.0",
+  "description": "Husky can prevent bad commit, push and more 🐶 woof!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "precommit": "echo \"Je lance le hook de precommit\"",
+    "prepush": "echo \"Je lance le hook de prepush\""
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "husky": "^0.14.3"
+  }
+}
