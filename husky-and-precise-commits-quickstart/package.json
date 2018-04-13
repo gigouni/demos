@@ -5,12 +5,15 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "precommit": "echo \"Je lance le hook de precommit\"",
+    "precise-commits": "precise-commits",
+    "precommit": "npm run precise-commits",
     "prepush": "echo \"Je lance le hook de prepush\""
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "husky": "^0.14.3"
+    "husky": "^0.14.3",
+    "precise-commits": "^1.0.2",
+    "prettier": "^1.11.1"
   }
 }
