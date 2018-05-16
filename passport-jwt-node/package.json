@@ -1,0 +1,22 @@
+{
+  "name": "passport-jwt-node",
+  "version": "1.0.0",
+  "description": "Source: [https://medium.com/front-end-hacking/learn-using-jwt-with-passport-authentication-9761539c4314](https://medium.com/front-end-hacking/learn-using-jwt-with-passport-authentication-9761539c4314)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "morgan": "^1.9.0",
+    "passport": "^0.4.0",
+    "passport-jwt": "^4.0.0",
+    "serve-favicon": "^2.5.0"
+  }
+}
