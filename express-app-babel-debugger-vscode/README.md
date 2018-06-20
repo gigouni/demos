@@ -168,4 +168,4 @@ __Why should you use BabelJS with your backend?__
 - [cons] "Okay but the refactor, I've to do it now, what's the difference? and Node.js 10 won't integrates, natively, the ES6/7/8 syntax?"
 - [pros] "You can, from now on, use the new syntax and align your source code with the latest coding conventions."
 - [cons] "Yes but BabelJS just bother us more than anything else..."
-- [pros] "it's just configurations issues, like with your IDE, but we can fix it. BabelJS comes with plugins too. for minimisation by example."
+- [pros] "It's just configurations issues, like with your IDE, but we can fix it. BabelJS comes with plugins too, for minimisation by example. If we want to use ES8 features like `async loop` or change for Typescript (for some reasons), Babel will help you to."
